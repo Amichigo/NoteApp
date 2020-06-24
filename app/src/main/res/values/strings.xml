@@ -2,7 +2,7 @@
     <string name="app_name">NotepadOffical</string>
     <string name="activity_main_app_full_name">NotepadOfficial Application</string>
     <string name="firstStudentInfo">16520092 - Luc Thien Binh</string>
-    <string name="secondStudentInfo">16520422 - Bui Gia Hoa</string>
+    <string name="secondStudentInfo">16520502 - Cao Minh Huy</string>
 
     <string name="title_notes">Notes</string>
     <string name="title_todolist">Todolist</string>
@@ -10,9 +10,9 @@
 
     <string name="title_share">share</string>
     <string name="menu_item_add">Add</string>
-    <string name="menu_item_about_app_1">This App is created for subjects: Introduction To Mobile Applications. \n</string>
-    <string name="menu_item_about_app_2">Guided by Instructor: Phan Nguyet Minh </string>
-    <string name="menu_item_about_app_3">Copyright UIT-VNU 2018 </string>
+    <string name="menu_item_about_app_1">Project for: Mobile Programming. \n</string>
+    <string name="menu_item_about_app_2">Guided by Instructor: Huynh Tuan Anh </string>
+    <string name="menu_item_about_app_3">Copyright UIT-VNU 2020 </string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

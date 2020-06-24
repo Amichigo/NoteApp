@@ -15,7 +15,7 @@
     <!-- Main Activity components -->
     <dimen name="empty_icon_width">60dp</dimen>
     <dimen name="empty_icon_height">60dp</dimen>
-    <dimen name="navigation_header_height">200dp</dimen>
+    <dimen name="navigation_header_height">250dp</dimen>
     <dimen name="navigation_item_height">52dp</dimen>
     <dimen name="navigation_item_icon_size">24dp</dimen>
 </resources>
